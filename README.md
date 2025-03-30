@@ -60,8 +60,22 @@
     <a href="https://www.linkedin.com/in/rachel-belokopytov/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
     </a>
-    <a href="mailto:rachelbelokopytov@gmail.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Gmail_Logo_2022.png" alt="Gmail" width="40" height="40"/>
-    </a>
+    <a href="https://mail.google.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="40" height="40"/>
+</a>
 </p>
+
+# Contact Information
+
+### Gmail
+[![Gmail](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png)](https://mail.google.com/)
+[Gmail](https://mail.google.com/)
+
+### GitHub
+[![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)](https://github.com/)
+[GitHub](https://github.com/)
+
+### LinkedIn
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)](https://www.linkedin.com/)
+[LinkedIn](https://www.linkedin.com/)
 
