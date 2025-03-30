@@ -1,9 +1,6 @@
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Rachel+:))
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Ink+Free&color=051117&background=EE2AD400&lines=Hi%F0%9F%91%8B%F0%9F%8F%BC+I+am+Rachel+':)'%3A))](https://readme-typing-svg.demolab.com/demo/)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Ink+Free&color=051117&background=EE2AD400&lines=Hi%F0%9F%91%8B%F0%9F%8F%BC+I+am+Rachel+Belokopytov+%3A))](https://readme-typing-svg.demolab.com/demo/)
  
 <!--
 **RachelB9913/RachelB9913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
