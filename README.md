@@ -23,63 +23,62 @@
 </p>
 
 <p align="left">
-    <div align="center" style="display: inline-block; margin: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>  
+    <a href="https://www.java.com/" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
         <br>Java
-    </div>
-    <div align="center" style="display: inline-block; margin: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
+    </a>
+    <a href="https://www.python.org/" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
         <br>Python
-    </div>
-    <div align="center" style="display: inline-block; margin: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>  
+    </a>
+    <a href="https://www.cprogramming.com/" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
         <br>C
-    </div>
-    <div align="center" style="display: inline-block; margin: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>  
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
         <br>MySQL
-    </div>
-    <div align="center" style="display: inline-block; margin: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>  
+    </a>
+    <a href="https://git-scm.com/" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
         <br>Git
-    </div>
-    <div align="center" style="display: inline-block; margin: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>  
+    </a>
+    <a href="https://github.com/" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
         <br>GitHub
-    </div>
-    <div align="center" style="display: inline-block; margin: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>  
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
         <br>MongoDB
-    </div>
-    <div align="center" style="display: inline-block; margin: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>  
+    </a>
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
         <br>PyCharm
-    </div>
-    <div align="center" style="display: inline-block; margin: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>  
+    </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>
         <br>IntelliJ
-    </div>
-    <div align="center" style="display: inline-block; margin: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>  
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
         <br>VS Code
-    </div>
-    <div align="center" style="display: inline-block; margin: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>  
+    </a>
+    <a href="https://ubuntu.com/" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
         <br>Ubuntu
-    </div>
-    <div align="center" style="display: inline-block; margin: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>  
+    </a>
+    <a href="https://www.linux.org/" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
         <br>Linux
-    </div>
-    <div align="center" style="display: inline-block; margin: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>  
+    </a>
+    <a href="https://pytorch.org/" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
         <br>PyTorch
-    </div>
-    <div align="center" style="display: inline-block; margin: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>  
+    </a>
+    <a href="https://www.tensorflow.org/" target="_blank" style="display: inline-block; text-align: center; margin: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
         <br>TensorFlow
-    </div>
+    </a>
 </p>
-
 
 
