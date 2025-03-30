@@ -1,9 +1,10 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Ink+Free&color=051117&background=EE2AD400&lines=Hi%F0%9F%91%8B%F0%9F%8F%BC+I+am+Rachel+Belokopytov)](https://readme-typing-svg.demolab.com/demo/)
- 
 
-## 🚀 Languages and Tools:
+
+
+## ⚒ Languages and Tools:
 <p align="left">
     <a href="https://www.java.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -17,7 +18,7 @@
     <a href="https://www.mysql.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
     </a>
-    <a href="https://gitlab-scm.com/" target="_blank">
+    <a href="https://about.gitlab.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="Gitlab" width="40" height="40"/>
     </a>
     <a href="https://github.com/" target="_blank">
@@ -41,6 +42,17 @@
     <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
     </a>
+</p>
+
+## ✉ Contact me:
+<p align="left">
+    <a href="linkedin.com/in/rachel-belokopytov" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedIn/linkedIn-original.svg" alt="LinkedIn" width="40" height="40"/>
+    </a>
+     <a href="linkedin.com/in/rachel-belokopytov" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Gmail/Gmail-original.svg" alt="Gmail" width="40" height="40"/>
+    </a>
+   
 </p>
 
 
