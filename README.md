@@ -2,16 +2,18 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Ink+Free&color=051117&background=EE2AD400&lines=Hi%F0%9F%91%8B%F0%9F%8F%BC+I+am+Rachel+Belokopytov)](https://readme-typing-svg.demolab.com/demo/)
 
-## About me...
+
 💻 I am a third-year Computer Science student specializing in Data Science and AI. 🧠📊
 
 🔥 Passionate about learning, continuously improving my skills, and collaborating with teams to solve real-world problems.
 
 🎓 Eager to gain industry experience, and seeking opportunities as a software engineer or developer, where I can contribute to impactful projects and grow professionally.
 
-🚀 At the moment, I’m interning at Nuvo Cares, where I contribute to developing computer vision systems for medical applications, leveraging various image processing techniques tools like SAM and YOLO.
+🚀 At the moment, I’m interning at Nuvo Cares, where I contribute to developing computer vision systems for medical applications, leveraging various image processing techniques tools like SAM and YOLO.  
 
-## ⚒ Languages and Tools:
+<br> <!-- Adding space here -->
+
+#### ⚒ Languages and Tools:
 <p align="left">
     <a href="https://www.java.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -52,16 +54,19 @@
     <a href="https://opencv.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
     </a>
-</p>
+</p>  
 
-### 📫 Contact Me  
+<br> <!-- Adding space here -->
+
+#### 📫 Contact Me  
 
 <p align="left">
     <a href="https://www.linkedin.com/in/rachel-belokopytov/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
     </a>
-    <a href="https:///" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="40" height="40"/>
-</a>
+    <a href="mailto:rachelbelokopytov@gmail.com" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/>
+    </a>
+
 </p>
 
