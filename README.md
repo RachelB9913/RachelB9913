@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 ## 🚀 Languages and Tools:
 
 <p align="left">
-    <!-- Programming Languages -->
     <a href="https://www.java.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
     </a>
@@ -46,16 +45,13 @@ Here are some ideas to get you started:
     <a href="https://isocpp.org/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
     </a>
-    
-    <!-- Databases -->
-    <a href="https://www.mysql.com/" target="_blank"> 
+        <a href="https://www.mysql.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
     </a>
     <a href="https://www.mongodb.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> 
     </a>
 
-    <!-- Machine Learning Frameworks -->
     <a href="https://pytorch.org/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/> 
     </a>
@@ -63,7 +59,6 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> 
     </a>
 
-    <!-- Version Control -->
     <a href="https://git-scm.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
     </a>
@@ -71,7 +66,6 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
     </a>
 
-    <!-- Operating Systems -->
     <a href="https://ubuntu.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/> 
     </a>
@@ -79,7 +73,6 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
     </a>
 
-    <!-- IDEs & Editors -->
     <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/> 
     </a>
