@@ -3,11 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Ink+Free&color=051117&background=EE2AD400&lines=Hi%F0%9F%91%8B%F0%9F%8F%BC+I+am+Rachel+Belokopytov)](https://readme-typing-svg.demolab.com/demo/)
 
 ## About me...
-💻 I am a third-year Computer Science student specializing in Data Science and AI.
-🌱 Passionate about learning, continuously improving my skills, and collaborating with teams to solve real-world problems.
+💻 I am a third-year Computer Science student specializing in Data Science and AI. 🧠📊
+
+🔥 Passionate about learning, continuously improving my skills, and collaborating with teams to solve real-world problems.
+
 🎓 Eager to gain industry experience, and seeking opportunities as a software engineer or developer, where I can contribute to impactful projects and grow professionally.
 
-Currently, I'm interning at Nuvo Cares, where I work on computer vision-based systems for medical applications.
+🚀 At the moment, I’m interning at Nuvo Cares, where I contribute to developing computer vision systems for medical applications, leveraging various image processing techniques tools like SAM and YOLO.
 
 ## ⚒ Languages and Tools:
 <p align="left">
@@ -47,12 +49,6 @@ Currently, I'm interning at Nuvo Cares, where I work on computer vision-based sy
     <a href="https://www.linux.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
     </a>
-    <a href="https://github.com/ssarcandy/SAM" target="_blank">
-        <img src="https://raw.githubusercontent.com/ssarcandy/SAM-logo/main/logo.svg" alt="SAM" width="40" height="40"/>
-    </a>
-    <a href="https://github.com/AlexeyAB/darknet" target="_blank">
-        <img src="https://raw.githubusercontent.com/AlexeyAB/darknet/master/data/darknet-logo.png" alt="YOLO" width="40" height="40"/>
-    </a>
     <a href="https://opencv.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
     </a>
@@ -65,7 +61,7 @@ Currently, I'm interning at Nuvo Cares, where I work on computer vision-based sy
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
     </a>
     <a href="mailto:rachelbelokopytov@gmail.com">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Logo.svg" alt="Gmail" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Gmail_Logo_2022.png" alt="Gmail" width="40" height="40"/>
     </a>
 </p>
 
