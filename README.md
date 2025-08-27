@@ -9,8 +9,6 @@
 
 🎓 Eager to gain industry experience, and seeking opportunities as a software engineer or developer, where I can contribute to impactful projects and grow professionally.
 
-🚀 At the moment, I’m interning at Nuvo Cares, where I contribute to developing computer vision systems for medical applications, leveraging various image processing techniques tools like SAM and YOLO.  
-
 <br> <!-- Adding space here -->
 
 #### ⚒ Languages and Tools:
